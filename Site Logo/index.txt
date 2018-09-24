@@ -1,0 +1,13 @@
+<html>
+	<head>
+		<title>
+			logo face
+		</title>
+		<link href="estilo.css" rel="stylesheet" media="all"/>
+
+	</head>
+
+	<body>
+		<p> <img src="img/logoface.png" alt="logo" width="%" height="%"> </p>	</body>
+
+</html>
