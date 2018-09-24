@@ -1,0 +1,2 @@
+﻿DAO
+	Responsavel por acessar os banco de dados
