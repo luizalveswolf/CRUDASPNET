@@ -94,13 +94,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Data\DBEstoque.mdf.mdf" />
-    <Content Include="App_Data\DBEstoque.mdf_log.ldf">
-      <DependentUpon>DBEstoque.mdf.mdf</DependentUpon>
+    <Content Include="App_Data\DBEstoque.mdf" />
+    <Content Include="App_Data\DBEstoque_log.ldf">
+      <DependentUpon>DBEstoque.mdf</DependentUpon>
     </Content>
     <Content Include="Global.asax" />
     <Content Include="Notas\Notas.txt" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />

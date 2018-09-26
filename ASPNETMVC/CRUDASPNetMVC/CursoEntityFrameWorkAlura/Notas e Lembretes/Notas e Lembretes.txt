@@ -1,0 +1,16 @@
+﻿Projeto é console aplication mostrando como utilizar o entity framework
+
+depois de criar o banco de dados: opção adicionar novo item, Data: Banco de dados baseado em serviço
+
+ao criar o banco de dados é adicionado no App.config a conectionString
+
+<connectionStrings>
+	<!--em add name deve ser colocado o come da classe que contem o "context"-->
+	<add name="EntidadesContext"
+	<!--em AttachDbFilename=E:\aulas\Desenvolvimento\ASPNETMVC\CRUDASPNET2018\CRUDASPNET\ASPNETMVC\CRUDASPNetMVC\CursoEntityFrameWorkAlura\Loja.mdf deve ser colocado o caminho completo -->
+	connectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=E:\aulas\Desenvolvimento\ASPNETMVC\CRUDASPNET2018\CRUDASPNET\ASPNETMVC\CRUDASPNetMVC\CursoEntityFrameWorkAlura\Loja.mdf;Integrated Security=True"
+	providerName="System.Data.SqlCliente" />
+</connectionStrings>
+
+este dado é mostrado mas configurações avançadas do banco de dados
+Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=E:\aulas\Desenvolvimento\ASPNETMVC\CRUDASPNET2018\CRUDASPNET\ASPNETMVC\CRUDASPNetMVC\CursoEntityFrameWorkAlura\Loja.mdf;Integrated Security=True

@@ -1,2 +1,16 @@
 ﻿DAO
 	Responsavel por acessar os banco de dados
+
+	caso der algum problema de compatibilidade com os bancos.mdf
+	basta refazer a conexao no gerenciador de servidores e o sistema ira perguntar se deseja atualizar
+	depois de atualizado a versao para atual ele vai ler normal.
+
+	nao funciona assim
+	Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=E:\aulas\Desenvolvimento\ASPNETMVC\CRUDASPNET2018\CRUDASPNET\ASPNETMVC\CRUDASPNetMVC\CRUDASPNetMVC\App_Data\DBEstoque.mdf;Integrated Security=True
+	
+	connectionString que funciona
+	 <connectionStrings>
+    <add name="EstoqueContext"
+         connectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|DBEstoque.mdf;Initial Catalog=DBEstoque;Integrated Security=True"
+         providerName="System.Data.SqlClient"/>
+  </connectionStrings>

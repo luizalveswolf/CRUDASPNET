@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDASPNetMVC", "CRUDASPNetMVC\CRUDASPNetMVC.csproj", "{DDA02C56-ABB8-42C7-A5D6-62A7548A1A83}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoEntityFrameWorkAlura", "CursoEntityFrameWorkAlura\CursoEntityFrameWorkAlura.csproj", "{1AAB5D22-A4E4-456F-9569-76A23A213CF3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DDA02C56-ABB8-42C7-A5D6-62A7548A1A83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDA02C56-ABB8-42C7-A5D6-62A7548A1A83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDA02C56-ABB8-42C7-A5D6-62A7548A1A83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AAB5D22-A4E4-456F-9569-76A23A213CF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AAB5D22-A4E4-456F-9569-76A23A213CF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AAB5D22-A4E4-456F-9569-76A23A213CF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AAB5D22-A4E4-456F-9569-76A23A213CF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

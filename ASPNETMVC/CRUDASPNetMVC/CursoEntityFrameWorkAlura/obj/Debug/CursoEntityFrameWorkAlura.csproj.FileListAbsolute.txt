@@ -1,0 +1,14 @@
+E:\aulas\Desenvolvimento\ASPNETMVC\CRUDASPNET2018\CRUDASPNET\ASPNETMVC\CRUDASPNetMVC\CursoEntityFrameWorkAlura\bin\Debug\Loja.mdf
+E:\aulas\Desenvolvimento\ASPNETMVC\CRUDASPNET2018\CRUDASPNET\ASPNETMVC\CRUDASPNetMVC\CursoEntityFrameWorkAlura\bin\Debug\Loja_log.ldf
+E:\aulas\Desenvolvimento\ASPNETMVC\CRUDASPNET2018\CRUDASPNET\ASPNETMVC\CRUDASPNetMVC\CursoEntityFrameWorkAlura\bin\Debug\CursoEntityFrameWorkAlura.exe.config
+E:\aulas\Desenvolvimento\ASPNETMVC\CRUDASPNET2018\CRUDASPNET\ASPNETMVC\CRUDASPNetMVC\CursoEntityFrameWorkAlura\bin\Debug\CursoEntityFrameWorkAlura.exe
+E:\aulas\Desenvolvimento\ASPNETMVC\CRUDASPNET2018\CRUDASPNET\ASPNETMVC\CRUDASPNetMVC\CursoEntityFrameWorkAlura\bin\Debug\CursoEntityFrameWorkAlura.pdb
+E:\aulas\Desenvolvimento\ASPNETMVC\CRUDASPNET2018\CRUDASPNET\ASPNETMVC\CRUDASPNetMVC\CursoEntityFrameWorkAlura\bin\Debug\EntityFramework.dll
+E:\aulas\Desenvolvimento\ASPNETMVC\CRUDASPNET2018\CRUDASPNET\ASPNETMVC\CRUDASPNetMVC\CursoEntityFrameWorkAlura\bin\Debug\EntityFramework.SqlServer.dll
+E:\aulas\Desenvolvimento\ASPNETMVC\CRUDASPNET2018\CRUDASPNET\ASPNETMVC\CRUDASPNetMVC\CursoEntityFrameWorkAlura\bin\Debug\EntityFramework.xml
+E:\aulas\Desenvolvimento\ASPNETMVC\CRUDASPNET2018\CRUDASPNET\ASPNETMVC\CRUDASPNetMVC\CursoEntityFrameWorkAlura\bin\Debug\EntityFramework.SqlServer.xml
+E:\aulas\Desenvolvimento\ASPNETMVC\CRUDASPNET2018\CRUDASPNET\ASPNETMVC\CRUDASPNetMVC\CursoEntityFrameWorkAlura\obj\Debug\CursoEntityFrameWorkAlura.csprojAssemblyReference.cache
+E:\aulas\Desenvolvimento\ASPNETMVC\CRUDASPNET2018\CRUDASPNET\ASPNETMVC\CRUDASPNetMVC\CursoEntityFrameWorkAlura\obj\Debug\CursoEntityFrameWorkAlura.csproj.CoreCompileInputs.cache
+E:\aulas\Desenvolvimento\ASPNETMVC\CRUDASPNET2018\CRUDASPNET\ASPNETMVC\CRUDASPNetMVC\CursoEntityFrameWorkAlura\obj\Debug\CursoEntityFrameWorkAlura.csproj.CopyComplete
+E:\aulas\Desenvolvimento\ASPNETMVC\CRUDASPNET2018\CRUDASPNET\ASPNETMVC\CRUDASPNetMVC\CursoEntityFrameWorkAlura\obj\Debug\CursoEntityFrameWorkAlura.exe
+E:\aulas\Desenvolvimento\ASPNETMVC\CRUDASPNET2018\CRUDASPNET\ASPNETMVC\CRUDASPNetMVC\CursoEntityFrameWorkAlura\obj\Debug\CursoEntityFrameWorkAlura.pdb
